@@ -61,8 +61,7 @@ Build a RESTful API using Express.js that implements standard CRUD operations, p
 
 ## ✅ Submission Instructions
 1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
-3. Add the following files to your repository:
+2. Clone your personal repository that w. Add the following files to your repository:
    - All your project files (server.js, routes, middleware, etc.)
    - A `README.md` file with:
      - Instructions on how to run your server
@@ -71,4 +70,5 @@ Build a RESTful API using Express.js that implements standard CRUD operations, p
    - A `.env.example` file showing required environment variables
 4. Commit and push your changes to GitHub
 5. Your submission will be automatically graded based on the criteria in the autograding configuration
-6. The instructor will review your submission after the autograding is complete 
+6. The instructor will review your submission after the autograding is complete as created by GitHub Classroom
+3
